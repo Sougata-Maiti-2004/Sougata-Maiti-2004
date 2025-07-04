@@ -11,6 +11,7 @@ I'm **Sougata Maiti**, a passionate 💻 Computer Science & Engineering (CSE) st
 
 🔗 Connect with Me:
 📫 LinkedIn: www.linkedin.com/in/sougatamaiti2004
+
 ✉️ Gmail: sougatamaiti2004@gmail.com
 
 🤝 Let’s grow, learn, and build the future — together!
