@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hello World!  
+I'm **Sougata Maiti**, a passionate 💻 Computer Science & Engineering (CSE) student with a love for crafting clean code, solving real-world problems, and building beautiful, functional user experiences.
 
-<!--
-**Sougata-Maiti-2004/Sougata-Maiti-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I thrive in the world of:
+- 💡 Algorithms & Data Structures
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 📱 Frontend UI/UX Design
+- 🧠 AI, ML, and Future Tech
 
-Here are some ideas to get you started:
+🌱 Always learning, always building.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Connect with Me:
+📫 LinkedIn: www.linkedin.com/in/sougatamaiti2004
+✉️ Gmail: sougatamaiti2004@gmail.com
+
+🤝 Let’s grow, learn, and build the future — together!
+
