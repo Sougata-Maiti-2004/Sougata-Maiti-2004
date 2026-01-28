@@ -3,7 +3,7 @@ I'm **Sougata Maiti**, a passionate 💻 Computer Science & Engineering (CSE) st
 
 🚀 I thrive in the world of:
 - 💡 Algorithms & Data Structures
-- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🌐 Web Development (HTML, CSS, JavaScript, React)
 - 📱 Frontend UI/UX Design
 - 🧠 AI, ML, and Future Tech
 
