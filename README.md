@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sougata from Tamluk, West Bengal<br><br>I'm Sougata Maiti, a passionate 💻 Computer Science & Engineering (CSE) student with a love for crafting clean code, solving real-world problems, and building beautiful, functional user experiences.<br><br>🚀 I thrive in the world of:<br><br>💡 Algorithms & Data Structures (C , Java)<br>🌐 Web Development (HTML, CSS, JavaScript, React)<br>📱 UI/UX Design<br>🧠 Data Analysis (SQL , Excel)</p>
+<p align="left">I'm Sougata from Tamluk, West Bengal<br><br>I'm Sougata Maiti, a passionate 💻 Computer Science & Engineering (CSE) student with a love for crafting clean code, solving real-world problems, and building beautiful, functional user experiences.<br><br>🚀 I thrive in the world of:<br><br>💡 Algorithms & Data Structures (C, Python, Java)<br>🌐 Web Development (HTML, CSS, JavaScript, React)<br>📱 UI/UX Design<br>🧠 Data Analysis (SQL , Excel)</p>
 
 ###
 
